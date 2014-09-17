@@ -1,0 +1,19 @@
+== README
+
+Crash Collision is a game where you use the mouse to guide a ball.  The ball cannot collide with the walls or else it is game over.  When the game is over, you get to enter your name for the leaderboards.
+
+Plans
+  1. Set up framework.
+  2. Main Menu
+    a. Graphics
+      i.   Title
+      ii.  Choices
+      iii. Background
+    b. Choices
+      i.   Start Game
+      ii.  Help
+      iii. High Scores
+    c. Link Choices to Function
+  3. Help Choice
+    
+
